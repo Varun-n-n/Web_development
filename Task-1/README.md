@@ -25,7 +25,8 @@ Follow the instructions below to set up and run the WebSocket chat application o
 
 ### Navigate to the project directory:
 
-	cd your-repository
+	cd Web_development/Task-1
+
 
 ### Usage
 	
