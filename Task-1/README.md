@@ -40,5 +40,5 @@ Use the chat interface to send and receive messages in real-time.
 
 ### Acknowledgments
 
-This project was created as a Project exercise and is a basic implementation of a WebSocket chat application.
-\n Enjoy chatting in real-time with your friends using this WebSocket chat application!
+This project was created as a Project exercise and is a basic implementation of a WebSocket chat application.                                                       
+Enjoy chatting in real-time with your friends using this WebSocket chat application!
