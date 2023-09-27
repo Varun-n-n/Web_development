@@ -20,8 +20,7 @@ Follow the instructions below to set up and run the WebSocket chat application o
 
 1. Clone this repository to your local machine:
 
-	```bash
- 	git clone https://github.com/Varun-n-n/web_development.git
+ 	git clone https://github.com/Varun-n-n/Web_development.git
 
 
 ### Navigate to the project directory:
@@ -29,8 +28,6 @@ Follow the instructions below to set up and run the WebSocket chat application o
 	cd your-repository
 
 ### Usage
-
-	#Run the WebSocket server:
 	
 	python server.py
 
